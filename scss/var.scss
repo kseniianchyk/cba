@@ -1,0 +1,79 @@
+%flex {
+    display: flex;
+}
+
+%flex-btw {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+%burger {
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    background: #FF9900;
+    margin: 0 auto;
+}
+
+%container {
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+%container-m {
+    margin: 0 auto;
+    max-width: 1065px;
+}
+
+%btn {
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.015em;
+    font-family: Gilroy-Bold, sans-serif;
+}
+
+%title {
+    font-family: PlayfairDisplay-Regular, sans-serif;
+    font-size: 40px;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+}
+
+%text {
+    font-family: Gilroy-Regular, sans-serif;
+    font-size: 18px;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+}
+
+%text-semibold {
+    font-family: Gilroy-Semibold, sans-serif;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+}
+
+%text-bold {
+    font-family: Gilroy-Bold, sans-serif;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+    font-size: 18px;
+}
+
+%slick-prev {
+    content: url('../images/slick-prev.png');
+    opacity: 1;
+}
+
+%slick-next {
+    content: url('../images/slick-next.png');
+    opacity: 1;
+}
+
+$color-orange: #FF9900;
+$color-orangelight: #FFB800;
+$color-white: #FFF;
+$color-input: rgba(255,
+255,
+255,
+0.72);

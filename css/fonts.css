@@ -1,0 +1,33 @@
+@font-face {
+  src: url("../fonts/PlayfairDisplay-Bold.ttf");
+  font-family: PlayfairDisplay-Bold; }
+
+@font-face {
+  src: url("../fonts/PlayfairDisplay-Regular.ttf");
+  font-family: PlayfairDisplay-Regular; }
+
+@font-face {
+  src: url("../fonts/Gilroy-Bold.ttf");
+  font-family: Gilroy-Bold; }
+
+@font-face {
+  src: url("../fonts/Gilroy-Heavy.ttf");
+  font-family: Gilroy-Heavy; }
+
+@font-face {
+  src: url("../fonts/Gilroy-Light.ttf");
+  font-family: Gilroy-Light; }
+
+@font-face {
+  src: url("../fonts/Gilroy-Medium.ttf");
+  font-family: Gilroy-Medium; }
+
+@font-face {
+  src: url("../fonts/Gilroy-Regular.ttf");
+  font-family: Gilroy-Regular; }
+
+@font-face {
+  src: url("../fonts/Gilroy-Semibold.ttf");
+  font-family: Gilroy-Semibold; }
+
+/*# sourceMappingURL=fonts.css.map */

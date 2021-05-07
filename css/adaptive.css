@@ -1,0 +1,7 @@
+@media screen and (max-width: 1440px) {
+  .header,
+  .main__advantage-list {
+    padding-left: 20px;
+    padding-right: 20px; } }
+
+/*# sourceMappingURL=adaptive.css.map */
